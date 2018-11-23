@@ -1,6 +1,7 @@
 # lpc12xx_iap_ram
 ## iap implement 
 ide:keil v5
+should works well on LPC12/25/26/27 except LPC1224(only 4KB ram)
 ## swd samples code
 
 ```C
