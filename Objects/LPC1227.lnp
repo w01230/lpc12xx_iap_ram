@@ -1,0 +1,12 @@
+--cpu Cortex-M0
+".\objects\boot_op.o"
+".\objects\crc32.o"
+".\objects\flash.o"
+".\objects\main.o"
+"C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Lib\ARM\arm_cortexM0l_math.lib"
+".\objects\startup_lpc122x.o"
+".\objects\system_lpc122x.o"
+--library_type=microlib --strict --scatter ".\Objects\LPC1227.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\LPC1227.map" -o .\Objects\LPC1227.axf

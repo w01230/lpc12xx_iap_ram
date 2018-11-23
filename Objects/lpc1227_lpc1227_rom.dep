@@ -1,0 +1,47 @@
+Dependencies for Project 'lpc1227', Target 'lpc1227_rom': (DO NOT MODIFY !)
+F (.\Source\boot_op.c)(0x5BF374C8)(--c99 -c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections-I.\RTE\_lpc1227_rom-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\DSP\Include-IC:\Keil_v5\ARM\PACK\Keil\LPC1200_DFP\1.0.0\Device\Include\LPC12xx-D__UVISION_VERSION="523" -D_RTE_-o .\objects\boot_op.o --omf_browse .\objects\boot_op.crf --depend .\objects\boot_op.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1200_DFP\1.0.0\Device\Include\LPC12xx\LPC122x.h)(0x50ACEA8C)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm0.h)(0x5B617084)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h)(0x5B1F3E94)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5B5843C6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5B617084)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1200_DFP\1.0.0\Device\Include\LPC12xx\system_LPC122x.h)(0x4CF34D78)
+I (Source\flash.h)(0x5B320AE0)
+I (Source\boot_op.h)(0x5B320AE0)
+F (.\Source\crc32.c)(0x5B320AE0)(--c99 -c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections-I.\RTE\_lpc1227_rom-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\DSP\Include-IC:\Keil_v5\ARM\PACK\Keil\LPC1200_DFP\1.0.0\Device\Include\LPC12xx-D__UVISION_VERSION="523" -D_RTE_-o .\objects\crc32.o --omf_browse .\objects\crc32.crf --depend .\objects\crc32.d)
+I (Source\crc32.h)(0x5B320AE0)
+F (.\Source\flash.c)(0x5BF37045)(--c99 -c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections-I.\RTE\_lpc1227_rom-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\DSP\Include-IC:\Keil_v5\ARM\PACK\Keil\LPC1200_DFP\1.0.0\Device\Include\LPC12xx-D__UVISION_VERSION="523" -D_RTE_-o .\objects\flash.o --omf_browse .\objects\flash.crf --depend .\objects\flash.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1200_DFP\1.0.0\Device\Include\LPC12xx\LPC122x.h)(0x50ACEA8C)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm0.h)(0x5B617084)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h)(0x5B1F3E94)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5B5843C6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5B617084)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1200_DFP\1.0.0\Device\Include\LPC12xx\system_LPC122x.h)(0x4CF34D78)
+I (Source\crc32.h)(0x5B320AE0)
+I (Source\boot_op.h)(0x5B320AE0)
+I (Source\flash.h)(0x5B320AE0)
+F (.\Source\main.c)(0x5BF3AE2F)(--c99 -c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections-I.\RTE\_lpc1227_rom-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\DSP\Include-IC:\Keil_v5\ARM\PACK\Keil\LPC1200_DFP\1.0.0\Device\Include\LPC12xx-D__UVISION_VERSION="523" -D_RTE_-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x57F606B8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x57F606B8)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1200_DFP\1.0.0\Device\Include\LPC12xx\LPC122x.h)(0x50ACEA8C)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm0.h)(0x5B617084)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h)(0x5B1F3E94)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5B5843C6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5B617084)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1200_DFP\1.0.0\Device\Include\LPC12xx\system_LPC122x.h)(0x4CF34D78)
+I (Source\boot_op.h)(0x5B320AE0)
+I (Source\otp.h)(0x5B320AE0)
+F (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Lib\ARM\arm_cortexM0l_math.lib)(0x5B2C6E9C)()
+F (RTE\Device\LPC1227FBD64_301\startup_LPC122x.s)(0x5BF3ACC7)(--cpu Cortex-M0 --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I.\RTE\_lpc1227_rom-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\DSP\Include-IC:\Keil_v5\ARM\PACK\Keil\LPC1200_DFP\1.0.0\Device\Include\LPC12xx--pd "__UVISION_VERSION SETA 523" --pd "_RTE_ SETA 1"--list .\listings\startup_lpc122x.lst --xref -o .\objects\startup_lpc122x.o --depend .\objects\startup_lpc122x.d)
+F (RTE\Device\LPC1227FBD64_301\system_LPC122x.c)(0x5BF3A76B)(--c99 -c --cpu Cortex-M0 -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections-I.\RTE\_lpc1227_rom-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\DSP\Include-IC:\Keil_v5\ARM\PACK\Keil\LPC1200_DFP\1.0.0\Device\Include\LPC12xx-D__UVISION_VERSION="523" -D_RTE_-o .\objects\system_lpc122x.o --omf_browse .\objects\system_lpc122x.crf --depend .\objects\system_lpc122x.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1200_DFP\1.0.0\Device\Include\LPC12xx\LPC122x.h)(0x50ACEA8C)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm0.h)(0x5B617084)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h)(0x5B1F3E94)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5B5843C6)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5B617084)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1200_DFP\1.0.0\Device\Include\LPC12xx\system_LPC122x.h)(0x4CF34D78)

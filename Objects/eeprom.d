@@ -1,0 +1,11 @@
+.\objects\eeprom.o: Source\eeprom.c
+.\objects\eeprom.o: C:\Keil_v5\ARM\PACK\Keil\LPC1200_DFP\1.0.0\Device\Include\LPC12xx\LPC122x.h
+.\objects\eeprom.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\core_cm0.h
+.\objects\eeprom.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\eeprom.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\eeprom.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\eeprom.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\eeprom.o: C:\Keil_v5\ARM\PACK\Keil\LPC1200_DFP\1.0.0\Device\Include\LPC12xx\system_LPC122x.h
+.\objects\eeprom.o: Source\crc32.h
+.\objects\eeprom.o: Source\boot_op.h
+.\objects\eeprom.o: Source\eeprom.h
